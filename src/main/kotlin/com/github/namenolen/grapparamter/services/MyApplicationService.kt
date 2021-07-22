@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.namenolen.grapparamter.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.namenolen.grapparamter.MyBundle
 
 class MyApplicationService {
 
